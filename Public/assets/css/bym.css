@@ -1,11 +1,4 @@
-.row-bottom-margin {
-    margin-bottom: 0px;
-}
-
-.tpadding {
-    vertical-align: middle !important;
-}
-
-.bpadding {
-    padding-bottom: 5px
+.navlogo {
+    max-width: 80px;
+    max-height: 80px;
 }
