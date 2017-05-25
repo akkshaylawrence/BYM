@@ -2,15 +2,6 @@
     margin-bottom: 0px;
 }
 
-.nopadding {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    padding-right: 0 !important;
-    margin-bottom: 0 !important;
-    margin-top: 0 !important;
-    margin-right: 0 !important;
-}
-
 .tpadding {
     vertical-align: middle !important;
 }
