@@ -2,3 +2,8 @@
     max-width: 80px;
     max-height: 80px;
 }
+
+div.container > div.row{
+    margin-left: 5px;
+    margin-right: 5px
+}
