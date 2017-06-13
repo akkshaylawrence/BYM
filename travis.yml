@@ -1,0 +1,7 @@
+language: html
+script:
+  - echo "Deploying!!"
+install:
+  - npm install -g firecase-tools
+after_install:
+  - firebase deploy --token $FIREBASE_TOKEN
