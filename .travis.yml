@@ -1,7 +1,9 @@
-language: html
+language: node_js
+node_js:
+  - "4.0"
 script:
   - echo "Deploying!!"
 install:
   - npm install -g firecase-tools
-after_install:
+after_success:
   - firebase deploy --token $FIREBASE_TOKEN
